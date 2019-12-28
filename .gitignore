@@ -1,0 +1,5 @@
+# Ignore files created by JetBrains products
+.idea/
+
+# Ignore Virtual Environment files
+venv/
